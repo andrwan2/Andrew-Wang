@@ -1,0 +1,36 @@
+---
+sw201:
+    hostname: 10.0.0.201
+    platform: ios
+    groups: 
+        - cisco_group1
+        - cisco_group2
+
+sw202:
+    hostname: 10.0.0.202
+    platform: ios
+    groups: 
+        - cisco_group1
+
+sw203:
+    hostname: 10.0.0.203
+    platform: ios
+    groups: 
+        - cisco_group1
+
+sw204:
+    hostname: 10.0.0.204
+    platform: ios
+    groups: 
+        - cisco_group1
+
+sw205:
+    hostname: 10.0.0.205
+    platform: ios
+    groups: 
+        - cisco_group1
+sw206:
+    hostname: 10.0.0.206
+    platform: ios
+    groups:
+        - cisco_group1
